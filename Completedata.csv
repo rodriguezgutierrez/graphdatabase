@@ -1,4 +1,4 @@
-Code,Description,Brand,Strength,Dosage form,Format,Recipe,TLO Resourse,Key 1,PV,Std Value 2,Qty,N¡ bls/btt,Speed,RTE,RUN Hr,,,,
+Code,Description,Brand,Strength,Dosage_form,Format,Recipe,TLO_Resourse,Key_1,PV,Std Value 2,Qty,N¡_bls_btt,Speed,RTE,RUN_Hr,,,,
 F000150610,Brand 1 0.5mg SCDT 2x10 BLST IT,Brand 1,0.5mg,SCDT,2x10,50233218,PBLS03,F000150610_PBLS03,,105.47,10000,2,450,0.35,2.116402116,,,,
 F000151946,Brand 2 250mg HFC 9X10 BLST DK,Brand 2,250mg,HFC,9X10,50245226,PBLS06,F000151946_PBLS06,,30.86,10000,1,162,0.3,3.429355281,,,,
 F876412200,Brand 2 250mg HFC 9x10 BLST GB,Brand 2,250mg,HFC,9x10,50245225,PBLS06,F876412200_PBLS06,,30.86,10000,1,162,0.3,3.429355281,,,,
